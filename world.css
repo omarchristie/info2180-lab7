@@ -1,0 +1,13 @@
+body{
+  background-color: grey;
+}
+button{
+  color: blue;
+}
+h1{
+  color: red; 
+}
+
+#result {
+  background-color: skyblue;
+}
